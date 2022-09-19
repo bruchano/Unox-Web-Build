@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.190bff4b.css",
+    "main.js": "/static/js/main.b69cb54d.js",
+    "static/media/blog01.png": "/static/media/blog01.cefc0932eae0d33a0342.png",
+    "static/media/blog03.png": "/static/media/blog03.d922323861096f25274f.png",
+    "static/media/blog04.png": "/static/media/blog04.742c1357e7b6c11078e6.png",
+    "static/media/blog05.png": "/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog02.png": "/static/media/blog02.ab0eb367561796e91532.png",
+    "static/media/kubernetes_logo.png": "/static/media/kubernetes_logo.d74fa64a9b0bf2dc1f65.png",
+    "static/media/digital_banking.png": "/static/media/digital_banking.b8fa6140254a7e910618.png",
+    "static/media/react_logo.png": "/static/media/react_logo.f153eb9f28437192c6a0.png",
+    "static/media/uniswap_logo.png": "/static/media/uniswap_logo.728e1cabaa818d2e6b95.png",
+    "static/media/logo_reversed.png": "/static/media/logo_reversed.27153d45f88d338648a9.png",
+    "static/media/ethereum_logo.png": "/static/media/ethereum_logo.91dd99931e2d9eccc080.png",
+    "static/media/springboot_logo.png": "/static/media/springboot_logo.b14a7e8aeba084f0423f.png",
+    "static/media/mysql_logo.png": "/static/media/mysql_logo.6e42b2a035b28f240021.png",
+    "static/media/mongodb_logo.png": "/static/media/mongodb_logo.ead065561671561e2769.png",
+    "static/media/aws_logo.png": "/static/media/aws_logo.10c277b3dfe50cff42ec.png",
+    "static/media/google_analytics_logo.png": "/static/media/google_analytics_logo.faa5bc101ead4be39f45.png",
+    "static/media/nginx_logo.png": "/static/media/nginx_logo.d3341c2615ffb3405441.png",
+    "static/media/google_ml_logo.png": "/static/media/google_ml_logo.1fe659d237d341c9e1b3.png",
+    "static/media/digital_banking2.png": "/static/media/digital_banking2.389d340dac8f9b96b738.png",
+    "static/media/kafka_logo.png": "/static/media/kafka_logo.317c1f2c49b4157ff755.png",
+    "static/media/jumio_logo.png": "/static/media/jumio_logo.95cd6464656bafe3b5ae.png",
+    "static/media/firebase_logo.png": "/static/media/firebase_logo.c21c6113962fc8656b2b.png",
+    "index.html": "/index.html",
+    "main.190bff4b.css.map": "/static/css/main.190bff4b.css.map",
+    "main.b69cb54d.js.map": "/static/js/main.b69cb54d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.190bff4b.css",
+    "static/js/main.b69cb54d.js"
+  ]
+}
