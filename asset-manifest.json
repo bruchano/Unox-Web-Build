@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.190bff4b.css",
-    "main.js": "/static/js/main.b69cb54d.js",
+    "main.css": "/static/css/main.1120f4e9.css",
+    "main.js": "/static/js/main.fdffd7f8.js",
     "static/media/blog01.png": "/static/media/blog01.cefc0932eae0d33a0342.png",
     "static/media/blog03.png": "/static/media/blog03.d922323861096f25274f.png",
     "static/media/blog04.png": "/static/media/blog04.742c1357e7b6c11078e6.png",
@@ -25,11 +25,11 @@
     "static/media/jumio_logo.png": "/static/media/jumio_logo.95cd6464656bafe3b5ae.png",
     "static/media/firebase_logo.png": "/static/media/firebase_logo.c21c6113962fc8656b2b.png",
     "index.html": "/index.html",
-    "main.190bff4b.css.map": "/static/css/main.190bff4b.css.map",
-    "main.b69cb54d.js.map": "/static/js/main.b69cb54d.js.map"
+    "main.1120f4e9.css.map": "/static/css/main.1120f4e9.css.map",
+    "main.fdffd7f8.js.map": "/static/js/main.fdffd7f8.js.map"
   },
   "entrypoints": [
-    "static/css/main.190bff4b.css",
-    "static/js/main.b69cb54d.js"
+    "static/css/main.1120f4e9.css",
+    "static/js/main.fdffd7f8.js"
   ]
 }
